@@ -1,0 +1,2 @@
+debian/bin/Kashcoind usr/bin
+src/Kashcoind usr/lib/Kashcoin

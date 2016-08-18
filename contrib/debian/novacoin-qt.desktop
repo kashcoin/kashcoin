@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kashcoin
+Comment=Kashcoin P2P Cryptocurrency
+Comment[ru]=Kashcoin, P2P криптовалюта
+Comment[fr]=Kashcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Kashcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Kashcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/Kashcoin80.xpm
+MimeType=x-scheme-handler/Kashcoin;
+Categories=Office;

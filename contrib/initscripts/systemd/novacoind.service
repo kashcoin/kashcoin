@@ -1,0 +1,11 @@
+[Unit]
+Description=Kashcoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=Kashcoin
+ExecStart=/opt/Kashcoin/Kashcoind
+
+[Install]
+WantedBy=multi-user.target

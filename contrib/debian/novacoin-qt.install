@@ -1,0 +1,5 @@
+Kashcoin-qt usr/bin
+share/pixmaps/Kashcoin32.xpm usr/share/pixmaps
+share/pixmaps/Kashcoin80.xpm usr/share/pixmaps
+debian/Kashcoin-qt.desktop usr/share/applications
+debian/Kashcoin-qt.protocol usr/share/kde4/services/
